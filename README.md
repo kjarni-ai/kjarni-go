@@ -6,7 +6,7 @@ Text classification, embeddings, semantic search, and reranking for Go. No Pytho
 ![Kjarni Demo](kjarni-demo.gif)
 # Kjarni inference engine
 
-This go library uses the custom built [Kjarni](https://github.com/olafurjohannsson/kjarni) engine to do inference
+This go library uses the custom built [Kjarni](https://github.com/kjarni-ai/kjarni) engine to do inference
 
 Models download automatically on first use and are cached locally.
 
