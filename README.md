@@ -17,7 +17,7 @@ package main
 
 import (
     "fmt"
-    "github.com/olafurjohannsson/kjarni-go"
+    "github.com/kjarni-ai/kjarni-go"
 )
 
 func main() {
@@ -44,7 +44,7 @@ package main
 
 import (
     "fmt"
-    "github.com/olafurjohannsson/kjarni-go"
+    "github.com/kjarni-ai/kjarni-go"
 )
 
 func main() {
